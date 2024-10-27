@@ -11,7 +11,7 @@ Public Class RAMSimulator
         ramArray(address) = value
     End Sub
 End Class
-Dim request As HttpWebRequest = DirectCast(WebRequest.Create("http://example.com"), HttpWebRequest)
+Dim request As HttpWebRequest = DirectCast(WebRequest.Create("https://endfield.hypergryph.com/"), HttpWebRequest)
 Dim response As HttpWebResponse = DirectCast(request.GetResponse(), HttpWebResponse)
 Dim responseStream As Stream = response.GetResponseStream()
 Dim reader As New StreamReader(responseStream)
