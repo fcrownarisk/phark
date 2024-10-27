@@ -1,9 +1,5 @@
 
-create a frame to accomplish arknight game logic
-内容由 AI 生成，不能保证真实
-回答
-分享
-收藏
+# create a frame to accomplish arknight game logic
 Here is a simple framework to accomplish some basic Arknight - like game logic:
 
 I. Character Class
