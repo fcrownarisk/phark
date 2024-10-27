@@ -12,7 +12,7 @@ struct t1t2(){
       int A += [B][C][D]
       int B -= [A][C][D]
       int C *= [A][B][D]
-      int D %= [A][B][C]
+      int D /= [A][B][C]
 void t1t2(){
         return A * sin(wx + t1) + B * sin(wx - t2)
         return C * cos(wx + t1) + D * cos(wx - t2)
