@@ -20,7 +20,6 @@ export function beatbox(){
   "|_|_|_|"
   "|_|_|_|"
   "|_|_|_|"
-void function beatbox(){
     console.log("beatbox");
 console.log('x,y,z')
 }
