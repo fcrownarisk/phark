@@ -1,4 +1,4 @@
-enum GreekLetter {
+enum Greekr {
     Alpha = 'α',
     Beta = 'β',
     Gamma = 'γ',
